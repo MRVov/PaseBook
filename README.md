@@ -1,3 +1,34 @@
+# Main
+Bot for autoreg in
+Google
+bitcointalk.org
+Some secret forum
+
+Can:
+* google_like
+* google_dislike
+* google_comment
+* google_share
+* google_create_comm_post
+
+* youtube_like
+* youtube_dislike
+* youtube_comment
+* youtube_subscribe
+
+# Register options
+Bot can invent
+* Login
+* Password
+* First Name
+* Last name
+* Birth
+* Phome
+* Photo
+
+See storage google.xml for more info
+
+
 # Tools:
 * recognize_captcha
 http://antigate.com/ for captcha
