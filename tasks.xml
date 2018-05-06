@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+
+<!-- 
+Или, к примеру, «правило трёх П». 
+Это значит, что контент должен быть трёх видов: профессиональный, профильный, персональный. 
+То есть, желая привлечь внимание к продукту компании, 
+нужно рассказывать не только о компании и продукте (профессиональный контент), 
+но и помогать пользователям разобраться в тенденциях рынка в целом (профильный контент), 
+а также практиковать неформальное общение (персональный контент
+
+Почти «идеальная» формула контента: 
+
+    1 Share 
+    3 коммента 
+    5 лайков 
+    1 профессиональный пост/рассказ/анонс/комментарий/совет... 
+    1 ссылка на интересный профильный контент 
+    1 личный пост или вопрос
+-->
+
+<task hours="24" type="google" url="https://plus.google.com/u/0/110189702431319981874/posts/iCZs4gxECve" comm_oid="110075815123635300569">
+
+  <item type="comment" user="lenka4445" date="12-07-2013 21:11:10">Батько махно</item>
+  <item type="comment" user="lenka4445" date="12-07-2013 21:12:24">Маза фака нигерс</item>
+  <item type="like" user="hruhruhrurrrr" date="12-07-2013 21:15:43"> </item>
+  <item type="share" user="dzfvdfvzdfvfdve" date="12-07-2013 21:35:00">Четкий мостик</item>
+  <item type="create_comm_post" user="rita15074" date="12-07-2013 21:41:29">Do you like monkey?</item>
+  <item type="create_comm_post" user="gena5798" date="14-07-2013 16:04:58">Do you like monkey?</item>
+<item type="create_comm_post" user="gena5798" date="">Monkey good!!!</item>
+</task>
+
+<task hours="24" type="FuckMailRU" url="www.mail.ru" comm_oid="">
+  <item type="createshare" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+  <item type="like" user="" date=""> </item>
+  <item type="like" user="" date=""> </item>
+  <item type="like" user="" date=""> </item>
+  <item type="like" user="" date=""> </item>
+  <item type="like" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+  <item type="comment" user="" date=""> </item>
+</task>
+
+</root>
