@@ -1,8 +1,10 @@
 # Main
+Engine- Python Splinter
+
 Bot for autoreg in
-Google
-bitcointalk.org
-Some secret forum
+* Google
+* bitcointalk.org
+* Some secret forum
 
 Can:
 * google_like
