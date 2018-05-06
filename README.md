@@ -14,6 +14,6 @@ Free Google accounts for you)
 
 # Have questions? 
 write here
-or hire me https://www.upwork.com/o/profiles/users/_~01a4a3d604f8c454ec/
-here I will definitely answer and it will be faster)
+or hire me here https://www.upwork.com/o/profiles/users/_~01a4a3d604f8c454ec/
+I will definitely answer and it will be faster)
 
